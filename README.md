@@ -7,3 +7,5 @@
 <br>
 Este é Apenas mais um repositório de programas para meu aprendizado! Irei converter programas antigos que estão em outros Repositórios meus, mas também criarei programas de teste que postarei aqui!
 
+amo leleyo
+
